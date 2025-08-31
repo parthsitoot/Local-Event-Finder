@@ -1,1 +1,1 @@
-# Local-Event-Finder
+# Eventhopper
